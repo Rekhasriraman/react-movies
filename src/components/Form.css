@@ -1,6 +1,5 @@
 .form-container {
     text-align: left;
-    /* Align text to the left within the container */
 }
 
 .input-container {
@@ -16,9 +15,9 @@
 
 .input-field {
     flex: 5.8;
-    /* Adjust the flex value to make the input field narrower */
     border: none;
     outline: none;
+    font-size: x-large;
 }
 
 .search-icon {

@@ -44,33 +44,3 @@
 .Header {
     color: black;
 }
-
-.M {
-    color: #ff4081;
-    /* A bright pink */
-}
-
-.o {
-    color: #00bcd4;
-    /* A bright cyan */
-}
-
-.v {
-    color: #8e24aa;
-    /* A deep purple */
-}
-
-.i {
-    color: #4caf50;
-    /* A vibrant green */
-}
-
-.e {
-    color: #ff5722;
-    /* A vivid orange */
-}
-
-.s {
-    color: #e91e63;
-    /* A deep magenta */
-}
