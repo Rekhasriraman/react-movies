@@ -1,0 +1,48 @@
+@keyframes wave {
+    0% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(5px);
+    }
+
+    50% {
+        transform: translateX(0);
+    }
+
+    75% {
+        transform: translateX(-5px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.heading {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 50px;
+    text-shadow: 3px 3px brown;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+
+    color: rgb(16, 15, 15);
+    font-size: 20px;
+    animation: wave 2s infinite;
+}
+
+.header h2 .icon {
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+.header h2 .icon2 {
+    vertical-align: middle;
+    margin-top: -8px;
+}

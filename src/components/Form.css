@@ -1,0 +1,31 @@
+.form-container {
+    text-align: left;
+    /* Align text to the left within the container */
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    background-color: whitesmoke;
+}
+
+.input-field {
+    flex: 5.8;
+    /* Adjust the flex value to make the input field narrower */
+    border: none;
+    outline: none;
+}
+
+.search-icon {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.error-message {
+    color: red;
+}

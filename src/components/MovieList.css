@@ -1,0 +1,6 @@
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: rgb(25, 23, 23);
+}
